@@ -1,6 +1,6 @@
 <h1>JokenPo</h1>
 <br>
-<h2>Esse foi um projeto que eu aprendi no <a href="rodolfomori.com.br/devclub">DevClub</a></h2>.
+<h2>Esse foi um projeto que eu aprendi no <a href="https://devclub.com.br/">DevClub</a></h2>.
 <img width="1920" height="1080" alt="JokenPo" src="https://github.com/user-attachments/assets/cb9714b6-8640-4b45-8661-6e1a24d24b74" />
 
 <br>
